@@ -1,5 +1,6 @@
-# WORK IN PROGRESS
-# SPECIFICATION : first an AZERTY layout (test) then an Ergo-l layout (https://ergol.org)
+# ----  WORK IN PROGRESS  ----
+# Objectives
+First an AZERTY layout (test) then an Ergo-l layout (https://ergol.org)
 
 # ZMK config for beekeeb Toucan Keyboard
 
